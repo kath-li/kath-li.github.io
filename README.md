@@ -1,1 +1,6 @@
-# Personal Website & Projects
+## Personal Website 
+### Interests:
+Machine Learning, App Design
+### Languages:
+Java, React, Python, Ruby on Rails
+### Resume:
